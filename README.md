@@ -244,7 +244,7 @@ mobileMenuToggle.addEventListener('click', function() {
 ### File Structure for Deployment
 ```
 public/
-├── index1.html
+├── index2.html
 ├── style1.css
 ├── script1.js
 └── assets/
